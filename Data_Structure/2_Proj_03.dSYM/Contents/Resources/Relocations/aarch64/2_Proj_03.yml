@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jo/projects/Study/Data_Structure/2_Proj_03'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printPoly, symObjAddr: 0x0, symBinAddr: 0x1000038AC, symSize: 0x120 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _printPoly, symObjAddr: 0x0, symBinAddr: 0x1000038AC, symSize: 0x120 }
+  - { offsetInCU: 0x90, offset: 0x90, size: 0x8, addend: 0x0, symName: _addPoly, symObjAddr: 0x120, symBinAddr: 0x1000039CC, symSize: 0x208 }
+  - { offsetInCU: 0x11F, offset: 0x11F, size: 0x8, addend: 0x0, symName: _mulPoly, symObjAddr: 0x328, symBinAddr: 0x100003BD4, symSize: 0x140 }
+  - { offsetInCU: 0x1BA, offset: 0x1BA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x468, symBinAddr: 0x100003D14, symSize: 0x20C }
+...
